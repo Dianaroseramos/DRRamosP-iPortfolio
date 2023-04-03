@@ -1,2 +1,2 @@
-# DianaRoseRamos-iPortfolio
-My Personal Website
+# DianaRose-iPortfolio
+MyPersonalWebsite
