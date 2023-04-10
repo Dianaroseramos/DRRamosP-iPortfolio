@@ -1770,6 +1770,7 @@ input::-moz-focus-inner {
   bottom: 0;
   left: 55%;
   transition: 1.9s;
+  border-radius: 5px;
 }
 
 .intro-pic:hover {
@@ -1784,6 +1785,7 @@ input::-moz-focus-inner {
   bottom: 0;
   left: 50%;
   transition: 1.7s;
+  border-radius: 5px;
 }
 
 .intro-pic::before {
