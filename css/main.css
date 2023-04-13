@@ -1769,7 +1769,7 @@ input::-moz-focus-inner {
   right: 0;
   bottom: 0;
   left: 55%;
-  transition: 1.9s;
+  transition: 2.7s;
   border-radius: 5px;
 }
 
@@ -1784,7 +1784,7 @@ input::-moz-focus-inner {
   right: 0;
   bottom: 0;
   left: 50%;
-  transition: 1.7s;
+  transition: 2.2s;
   border-radius: 5px;
 }
 
