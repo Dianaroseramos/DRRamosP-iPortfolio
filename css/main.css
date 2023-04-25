@@ -2130,6 +2130,17 @@ input::-moz-focus-inner {
   margin-top: 2.8rem;
   min-height: 35.6rem;
 }
+.timeline__block:hover {
+  position: relative;
+  padding-left: 5.6rem;
+  padding-bottom: .8rem;
+  margin-top: 2.8rem;
+  min-height: 35.6rem;
+  border: 1px solid rgba(87, 80, 80, 0.355);
+  border-radius: 50px;
+  border-style: outset;
+  transition: .4s ease;
+}
 
 .timeline .timeline__block:last-child {
   padding-bottom: 0;
@@ -3400,4 +3411,70 @@ html[data-useragent*='MSIE 10.0'] .ss-go-top::after,
 html[data-useragent*='rv:11.0'] .ss-go-top::before,
 html[data-useragent*='rv:11.0'] .ss-go-top::after {
   display: none;
+}
+
+
+/*Work Logo*/
+
+#kpmg-logo {
+  width: 350px;
+  opacity: 40%;
+  transition: .7s ease-out;
+}
+#waltermart-logo {
+  width: 400px;
+  opacity: 40%;
+  transition: .7s ease-out;
+}
+#royce-logo {
+  width: 400px;
+  opacity: 40%;
+  opacity: 40%;
+  transition: .7s ease-out;
+}
+#lfc-logo {
+  width: 250px;
+  opacity: 40%;
+  transition: .7s ease-out;
+}
+#wesleyan-logo {
+  width: 250px;
+  opacity: 40%;
+  transition: .7s ease-out;
+}
+#talavera-logo {
+  width: 250px;
+  opacity: 40%;
+  transition: .7s ease-out;
+}
+/*Hover*/
+#kpmg-logo:hover {
+  width: 355px;
+  opacity: 71%;
+  transition: .2s ease-in;
+}
+#waltermart-logo:hover {
+  width: 405px;
+  opacity: 71%;
+  transition: .2s ease-in;
+}
+#royce-logo:hover {
+  width: 405px;
+  opacity: 71%;
+  transition: .2s ease-in;
+}
+#lfc-logo:hover {
+  width: 255px;
+  opacity: 71%;
+  transition: .2s ease-in;
+}
+#wesleyan-logo:hover {
+  width: 255px;
+  opacity: 71%;
+  transition: .2s ease-in;
+}
+#talavera-logo:hover {
+  width: 255px;
+  opacity: 71%;
+  transition: .2s ease-in;
 }
