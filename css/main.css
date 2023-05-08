@@ -3449,32 +3449,32 @@ html[data-useragent*='rv:11.0'] .ss-go-top::after {
 }
 /*Hover*/
 #kpmg-logo:hover {
-  width: 355px;
+scale: 1.1;
   opacity: 71%;
   transition: .2s ease-in;
 }
 #waltermart-logo:hover {
-  width: 405px;
+  scale: 1.1;
   opacity: 71%;
   transition: .2s ease-in;
 }
 #royce-logo:hover {
-  width: 405px;
+  scale: 1.1;
   opacity: 71%;
   transition: .2s ease-in;
 }
 #lfc-logo:hover {
-  width: 255px;
+  scale: 1.1;
   opacity: 71%;
   transition: .2s ease-in;
 }
 #wesleyan-logo:hover {
-  width: 255px;
+  scale: 1.1;
   opacity: 71%;
   transition: .2s ease-in;
 }
 #talavera-logo:hover {
-  width: 255px;
+  scale: 1.1;
   opacity: 71%;
   transition: .2s ease-in;
 }
